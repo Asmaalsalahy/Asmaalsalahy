@@ -1,0 +1,5 @@
+name=input("Hi user ,What is your name?? ").strip().title()
+print("Hello",name)
+age =int(input("when did you get burn? "))
+y =2023 - age
+print("So your age is",y)
